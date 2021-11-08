@@ -1,10 +1,12 @@
 # stepped-wedge
 
-Slides for Presentation on Stepped-Wedge Designs in Practice for Goldbag Research Seminar 2021-11-08
+Stepped Wedge Designs in Practice: What, Why, When and How
+
+A presentation at the Goldbag Research Seminar, CWRU Francis Payne Bolton School of Nursing, 2021-11-08.
+
+## The Slides
 
 Here is a [PDF of the slides](https://github.com/THOMASELOVE/stepped-wedge/blob/main/Love_Stepped_Wedge_2021-11-08.pdf).
-
-Dr. Love may be reached at `Thomas dot Love at case dot edu`.
 
 ## References
 
@@ -29,3 +31,6 @@ Other references of interest include:
 14. Hemming K Lilford R Girling AJ [Stepped-wedge cluster randomised controlled trials: a generic framework including parallel and multiple-level designs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4286109/) Statistics in Medicine 2015 Jan 30; 34(2): 181–196.
 15. Woertman W, de Hoop E, Moerbeek M, Zuidema SU, Gerritsen DL, Teerenstra S. [Stepped wedge designs could reduce the required sample size in cluster randomized trials](https://www.jclinepi.com/article/S0895-4356(13)00052-8/fulltext). Journal of Clinical Epidemiology. 2013;66(7):752–758.
 
+## Contact Me
+
+Dr. Love may be reached at `Thomas dot Love at case dot edu`.
