@@ -20,7 +20,7 @@ The work of Karla Hemming (University of Birmingham), Monica Taljaard (Ottawa Ho
 Other references of interest include:
 
 7. Hussey MA Hughes JP [Design and analysis of stepped wedge cluster randomized trials](https://pubmed.ncbi.nlm.nih.gov/16829207/) Contemp Clin Trials (2007) Feb; 28(2):182-91.
-8. Cebul RD Dawson NV Love TE Cluster Randomized Trials Short Courses at the Society for Medical Decision Making and the International Conference on Health Policy Statistics, 2005-2010.
+8. Cebul RD Dawson NV Love TE Cluster Randomized Trials Short Courses at the Society for Medical Decision Making and the International Conference on Health Policy Statistics, 2005-2010. (This was a key source for earlier versions of some of my slides.)
 9. Cebul RD Dawson NV Love TE (2007) Cluster-Randomized Trials, in *Textbook of Clinical Trials*, 2nd Ed., Wiley.
 10. Campbell MK et al. for the CONSORT group [CONSORT statement: extension to cluster randomised trials](https://www.bmj.com/content/328/7441/702) BMJ 2004; 328:702.
 11. The Gambia Hepatitis Study Group. [The Gambia Hepatitis Intervention Study](https://cancerres.aacrjournals.org/content/47/21/5782). Cancer Research 1987; 47: 5782-5787.
