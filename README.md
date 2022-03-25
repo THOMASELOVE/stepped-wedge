@@ -1,12 +1,16 @@
 # stepped-wedge
 
-Stepped Wedge Designs in Practice: What, Why, When and How
+## Presentation 2: Stepped Wedge Designs in Practice: What Should We Think Hard About?
+
+A presentation at the Population Health Research Institute, MetroHealth, 2022-04-01
+
+Here is a [PDF of the slides] from the 2022-04-01 talk.
+
+## Presentation 1: Stepped Wedge Designs in Practice: What, Why, When and How
 
 A presentation at the Goldbag Research Seminar, CWRU Francis Payne Bolton School of Nursing, 2021-11-08.
 
-## The Slides
-
-Here is a [PDF of the slides](https://github.com/THOMASELOVE/stepped-wedge/blob/main/Love_Stepped_Wedge_2021-11-08.pdf).
+Here is a [PDF of the slides](https://github.com/THOMASELOVE/stepped-wedge/blob/main/Love_Stepped_Wedge_2021-11-08.pdf) from the 2021-11-08 talk.
 
 ## References
 
