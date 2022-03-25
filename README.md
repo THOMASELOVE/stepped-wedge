@@ -4,7 +4,7 @@
 
 A presentation at the Population Health Research Institute, MetroHealth, 2022-04-01
 
-Here is a [PDF of the slides] from the 2022-04-01 talk.
+Here is a [PDF of the slides](https://github.com/THOMASELOVE/stepped-wedge/blob/main/Love_Stepped_Wedge_2022-04-01.pdf) from the 2022-04-01 talk.
 
 ## Presentation 1: Stepped Wedge Designs in Practice: What, Why, When and How
 
